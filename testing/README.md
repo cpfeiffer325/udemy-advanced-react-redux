@@ -6,3 +6,7 @@ learn to write tests for react redux projects using Jest
 - Redux
 - React-Redux
 - Jest
+
+### Instructions
+```npm start``` - run terminal
+```npm run test``` - run tests
